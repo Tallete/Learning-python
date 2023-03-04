@@ -14,4 +14,4 @@ def reversion (frase):                          #  Usamos un bucle para  constru
     return frase_invertida
 
 print(reverse("hola mundo cruel")) 
-print(reversion("hola mundo cruel"))
+print(reversion("hola mundo cruel")) 
